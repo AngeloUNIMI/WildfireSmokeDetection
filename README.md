@@ -25,8 +25,8 @@ Outline:<br/>
 
 Citation:
 
-    @InProceedings {CIMSA2011,
-        author = {A. Genovese and R. {Donida Labati} and V. Piuri and F. Scotti},
+@InProceedings {CIMSA2011,
+	author = {A. Genovese and R. {Donida Labati} and V. Piuri and F. Scotti},
         booktitle = {Proc. of the 2011 IEEE Int. Conf. on Computational Intelligence for Measurement Systems and Applications (CIMSA 2011)},
         title = {Wildfire smoke detection using computational intelligence techniques},
         address = {Ottawa, ON, Canada},
@@ -35,6 +35,17 @@ Citation:
         day = {19-21},
         year = {2011},
         note = {978-1-61284-924-9},}
+	
+@Article {tsmca12,
+	author = {R. {Donida Labati} and A. Genovese and V. Piuri and F. Scotti},
+	title = {Wildfire smoke detection using computational intelligence techniques enhanced with synthetic smoke plume generation},
+	journal = {IEEE Transactions on Systems, Man and Cybernetics: Systems},
+	volume = {43},
+	number = {4},
+	pages = {1003-1012},
+	month = {July},
+	year = {2013},
+	note = {2168-2216},}
 
 Main files:
 
