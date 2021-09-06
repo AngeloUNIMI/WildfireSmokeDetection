@@ -1,19 +1,25 @@
 # Wildfire Smoke Detection
 
-Matlab source code for the paper:
+Matlab source code for the papers:
 
 	A. Genovese, R. Donida Labati, V. Piuri, and F. Scotti, 
     "Wildfire smoke detection using computational intelligence techniques", 
     in IEEE International Conference on Computational Intelligence for Measurement Systems and Applications (CIMSA 2011), 
     Ottawa, Canada, September, 2011, pp. 1-6. ISSN: 2159-1547. 
-    [DOI: 10.1109/CIMSA.2011.6059930]
-    https://ieeexplore.ieee.org/document/6059930
+    [DOI: 10.1109/CIMSA.2011.6059930
+    
+Paper:
+
+https://ieeexplore.ieee.org/document/6059930
     
     R. Donida Labati, A. Genovese, V. Piuri, and F. Scotti, 
     "Wildfire smoke detection using computational intelligence techniques enhanced with synthetic smoke plume generation", 
     in IEEE Transactions on Systems, Man and Cybernetics: Systems, vol. 43, no. 4, July, 2013, pp. 1003-1012. ISSN: 2168-2216. 
     [DOI: 10.1109/TSMCA.2012.2224335]
-    https://ieeexplore.ieee.org/document/6425498
+    
+Paper:
+
+https://ieeexplore.ieee.org/document/6425498
 
 Project page:
 (with example videos)
